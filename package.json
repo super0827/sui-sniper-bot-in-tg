@@ -1,0 +1,14 @@
+{
+  "name": "sui-sniper",
+  "version": "1.0.0",
+  "description": "this is sui sniper bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7"
+  }
+}
